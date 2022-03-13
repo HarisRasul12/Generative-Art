@@ -1,4 +1,4 @@
-# Generative-Art
+# Style Transfer to Generative-Art
 
 <img width="441" alt="Screen Shot 2022-03-13 at 3 43 29 PM" src="https://user-images.githubusercontent.com/66268214/158076278-dd9be202-afcf-4878-9fc7-6aefcec2ea24.png">
 
