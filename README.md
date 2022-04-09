@@ -28,6 +28,6 @@ Found here: https://github.com/psh01087/style-transfer-pytorch
 
 
 
-The GANS archiecture being developed is found in the Gans_by_benji1123.ipynb file.The original GANS architecture by Ben Li found here: https://github.com/benji1123/gan/blob/master/dcgan_commented.py
+The original GANs archiecture used for development is found in the Gans_by_benji1123.ipynb file.The original GANS architecture by Ben Li found here: https://github.com/benji1123/gan/blob/master/dcgan_commented.py
 
 This model is only used a base frame as of now and will need to be modified going forward as we need to create a data loader, tune style content hyperparamters, as well as GAN weightings based on the images passed in. However, cuurrently this architecture is able to generate random photos similar to the ones inputted into it.
