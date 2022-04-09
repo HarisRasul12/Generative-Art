@@ -26,6 +26,16 @@ Sunghyun (psh01087) on GitHub
 Found here: https://github.com/psh01087/style-transfer-pytorch
 
 
+The master GAN and NST architecture are found under the following:
+
+MASTER_DO_NOT_RUN_GoodNST.ipynb
+GAN2_Do_Not_Touch.ipynb
+
+
+The GANS and NST were created with tuning hyper paramters such as style wieghtings, conent weightinsg - They are in the pipelkne created for the entire model.
+
+
+
 
 
 The original GANs archiecture used for development is found in the Gans_by_benji1123.ipynb file.The original GANS architecture by Ben Li found here: https://github.com/benji1123/gan/blob/master/dcgan_commented.py
