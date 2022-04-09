@@ -37,8 +37,13 @@ MASTER_DO_NOT_RUN_GoodNST.ipynb
 
 GAN2_Do_Not_Touch.ipynb
 
+
 The GANS and NST files were created with tuning hyper paramters such as style wieghtings, conent weightinsg - They are in the pipelkne created for the entire model.
 
 
+<img width="787" alt="Screen Shot 2022-04-09 at 7 37 38 PM" src="https://user-images.githubusercontent.com/66268214/162595087-47835e2f-a16f-454f-8958-a7c74825c5db.png">
+
+
+<img width="911" alt="Screen Shot 2022-04-09 at 6 17 56 AM" src="https://user-images.githubusercontent.com/66268214/162595092-21c19a1e-4061-4cba-89fa-11f639f9e39d.png">
 
 
