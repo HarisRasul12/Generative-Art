@@ -34,6 +34,7 @@ This model is only used a base frame as of now and will need to be modified goin
 The master GAN and NST architecture are found under the following:
 
 MASTER_DO_NOT_RUN_GoodNST.ipynb
+
 GAN2_Do_Not_Touch.ipynb
 
 The GANS and NST files were created with tuning hyper paramters such as style wieghtings, conent weightinsg - They are in the pipelkne created for the entire model.
