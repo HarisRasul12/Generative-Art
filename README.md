@@ -11,10 +11,10 @@ The NST structure has followed models found online. We will be creating and modi
 <img width="643" alt="Screen Shot 2022-03-13 at 3 45 34 PM" src="https://user-images.githubusercontent.com/66268214/158076335-cf072895-4b5b-49c0-b980-7df46b253d83.png"> 
 
 
-The neural style transfer model is found in the follwoing 2 files NST.ipynb. WE tesed two different models to see which produces the better results and determined after tetsing that NST.ipynb had the better model. We determined this by changing style weightings and content weightings to get the results as seen above.
+The neural style transfer model is found in the following file, NST.ipynb. We tesed two different models to see which produces the better results and determined after tetsing that NST.ipynb had the better model. We determined this by changing style weightings and content weightings to get the results as seen above.
 
 
-The orginal models for the two NST sructures can be found in the following:
+The orginal models for the two NST structures can be found in the following:
 
 Neural_Style_Transfer.ipynb:
 LIGHT ON MATH MACHINE LEARNING, Intuitive Guide to Neural Style Transfer, An intuitive guide to exploring design choices and technicalities of neural style transfer networks, By Thushan Ganegedara
@@ -27,15 +27,13 @@ Found here: https://github.com/psh01087/style-transfer-pytorch
 
 
 
-The original GANs archiecture used for development is found in the Gans_by_benji1123.ipynb file.The original GANS architecture by Ben Li found here: https://github.com/benji1123/gan/blob/master/dcgan_commented.py
-
 This model is only used a base frame as of now and will need to be modified going forward as we need to create a data loader, tune style content hyperparamters, as well as GAN weightings based on the images passed in. However, cuurrently this architecture is able to generate random photos similar to the ones inputted into it.
 
 The master GAN and NST architecture are found under the following:
 
 MASTER_NST.ipynb
 
-gan2.ipynb
+gan.ipynb
 
 
 The GANS and NST files were created with tuning hyper paramters such as style wieghtings, conent weightinsg - They are in the pipelkne created for the entire model.
