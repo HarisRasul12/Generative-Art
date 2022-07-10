@@ -4,14 +4,14 @@
 
 
 
-This project involves using a neural style transfer that stakes the style of one image and the content of another to generate fused composite images. From there the outputs of the NST will be used a data st to feed into a GANS architecture to produce randimly geerated images similar to the fused compoistes.
+This project involves using a neural style transfer that takes the style of one image and the content of another to generate fused composite images. From there the outputs of the NST will be used a data set to feed into a generative adversarial network (GAN) to produce generated images similar to the fused compoistes.
 
-The NST structure has followed models found online, and the GANS architectur as well. We will be creating and modifying losses and accuracies of these models as well changing major architecture compoenents of the neural networks such as style weightings and  content weightings.
+The NST structure has followed models found online. We will be creating and modifying losses and accuracies of these models as well as changing major architecture componenets of the neural networks such as style weightings and  content weightings.
 
 <img width="643" alt="Screen Shot 2022-03-13 at 3 45 34 PM" src="https://user-images.githubusercontent.com/66268214/158076335-cf072895-4b5b-49c0-b980-7df46b253d83.png"> 
 
 
-The neural style transfer model is found in the follwoing 2 files NST.ipynb, and Neural_Style_Transfer.ipynb. WE tesed two different models to see which produces the better results and determineD after tetsing that NST.ipynb had the better model. We determined this by chnaging style weightings and comosite weightings to get the results as seen above.
+The neural style transfer model is found in the follwoing 2 files NST.ipynb. WE tesed two different models to see which produces the better results and determined after tetsing that NST.ipynb had the better model. We determined this by changing style weightings and content weightings to get the results as seen above.
 
 
 The orginal models for the two NST sructures can be found in the following:
