@@ -45,3 +45,4 @@ The GANS and NST files were created with tuning hyper paramters such as style wi
 <img width="911" alt="Screen Shot 2022-04-09 at 6 17 56 AM" src="https://user-images.githubusercontent.com/66268214/162595092-21c19a1e-4061-4cba-89fa-11f639f9e39d.png">
 
 
+By Haris Rasul, Allan Lin, Alexnder Hwang
